@@ -28,6 +28,8 @@
             ...
         </profiles>
 
+<h5>New Features</h5>
+* [ZNTA-689](https://zanata.atlassian.net/browse/ZNTA-689) - Support Qt TS files
 
 <h5>Bug fixes</h5>
 * [ZNTA-804](https://zanata.atlassian.net/browse/ZNTA-804) - Coordinators' email addresses should be BCC in Contact Coordinator
